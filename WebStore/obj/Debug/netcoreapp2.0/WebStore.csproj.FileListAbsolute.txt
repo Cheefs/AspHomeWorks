@@ -1,0 +1,47 @@
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.deps.json
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.runtimeconfig.json
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.runtimeconfig.dev.json
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.dll
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.pdb
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csprojResolveAssemblyReference.cache
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csproj.CoreCompileInputs.cache
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.AssemblyInfoInputs.cache
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.AssemblyInfo.cs
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.dll
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.pdb
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.DomainNew.dll
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.DomainNew.pdb
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.DAL.dll
+C:\Users\4uctuk\Documents\Visual Studio 2017\Projects\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.DAL.pdb
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.deps.json
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.runtimeconfig.json
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.runtimeconfig.dev.json
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.dll
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.pdb
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.DAL.dll
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.DomainNew.dll
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.DAL.pdb
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.DomainNew.pdb
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csprojAssemblyReference.cache
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.AssemblyInfoInputs.cache
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.AssemblyInfo.cs
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csproj.CopyComplete
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.dll
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 6\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.pdb
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csprojAssemblyReference.cache
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.deps.json
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.runtimeconfig.json
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.runtimeconfig.dev.json
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.dll
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.pdb
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.DAL.dll
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.DomainNew.dll
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.DAL.pdb
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.DomainNew.pdb
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.AssemblyInfoInputs.cache
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.AssemblyInfo.cs
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csproj.CopyComplete
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.dll
+C:\Users\karol\Desktop\C# Developer\6- ASP.Net\Homework 7\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.pdb

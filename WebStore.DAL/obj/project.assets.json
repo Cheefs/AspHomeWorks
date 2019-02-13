@@ -1075,6 +1075,21 @@
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
+      },
+      "WebStore.DomainNew/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity": "2.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WebStore.DomainNew.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebStore.DomainNew.dll": {}
+        }
       }
     }
   },
@@ -3655,6 +3670,11 @@
         "system.threading.tasks.4.3.0.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "WebStore.DomainNew/1.0.0": {
+      "type": "project",
+      "path": "../WebStore.DomainNew/WebStore.DomainNew.csproj",
+      "msbuildProject": "../WebStore.DomainNew/WebStore.DomainNew.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3663,7 +3683,8 @@
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 2.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 2.0.0",
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "WebStore.DomainNew >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3673,11 +3694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karol\\Desktop\\C# Developer\\6- ASP.Net\\Homework 5\\AspProjekt\\WebStore.DAL\\WebStore.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\karol\\Desktop\\C# Developer\\6- ASP.Net\\Homework 7\\WebStore\\WebStore.DAL\\WebStore.DAL.csproj",
       "projectName": "WebStore.DAL",
-      "projectPath": "C:\\Users\\karol\\Desktop\\C# Developer\\6- ASP.Net\\Homework 5\\AspProjekt\\WebStore.DAL\\WebStore.DAL.csproj",
+      "projectPath": "C:\\Users\\karol\\Desktop\\C# Developer\\6- ASP.Net\\Homework 7\\WebStore\\WebStore.DAL\\WebStore.DAL.csproj",
       "packagesPath": "C:\\Users\\karol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karol\\Desktop\\C# Developer\\6- ASP.Net\\Homework 5\\AspProjekt\\WebStore.DAL\\obj\\",
+      "outputPath": "C:\\Users\\karol\\Desktop\\C# Developer\\6- ASP.Net\\Homework 7\\WebStore\\WebStore.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3695,7 +3716,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\karol\\Desktop\\C# Developer\\6- ASP.Net\\Homework 7\\WebStore\\WebStore.DomainNew\\WebStore.DomainNew.csproj": {
+              "projectPath": "C:\\Users\\karol\\Desktop\\C# Developer\\6- ASP.Net\\Homework 7\\WebStore\\WebStore.DomainNew\\WebStore.DomainNew.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

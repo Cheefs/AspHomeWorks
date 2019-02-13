@@ -12,9 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="WebStore.Domain">
-      <HintPath>..\WebStore.Domain\bin\Debug\netstandard2.0\WebStore.Domain.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\WebStore.DomainNew\WebStore.DomainNew.csproj" />
   </ItemGroup>
 
 </Project>
